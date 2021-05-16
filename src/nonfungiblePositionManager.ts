@@ -7,7 +7,7 @@ import {
   validateAndParseAddress,
   WETH9,
   Currency
-} from '@uniswap/sdk-core'
+} from '@lamamoon/swap-sdk-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { Position } from './entities/position'

@@ -1,4 +1,4 @@
-import { ChainId, currencyEquals, ETHER, Token, WETH9 } from '@uniswap/sdk-core'
+import { ChainId, currencyEquals, ETHER, Token, WETH9 } from '@lamamoon/swap-sdk-core'
 import { FeeAmount } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'
 import { TickMath } from '../utils/tickMath'

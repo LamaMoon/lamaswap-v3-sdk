@@ -1,4 +1,4 @@
-import { BigintIsh, ChainId, Price, Token, CurrencyAmount } from '@uniswap/sdk-core'
+import { BigintIsh, ChainId, Price, Token, CurrencyAmount } from '@lamamoon/swap-sdk-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { FACTORY_ADDRESS, FeeAmount, TICK_SPACINGS } from '../constants'

@@ -1,4 +1,4 @@
-import { ChainId, Percent, Token, CurrencyAmount, WETH9 } from '@uniswap/sdk-core'
+import { ChainId, Percent, Token, CurrencyAmount, WETH9 } from '@lamamoon/swap-sdk-core'
 import { FeeAmount, TICK_SPACINGS } from './constants'
 import { Pool } from './entities/pool'
 import { Position } from './entities/position'

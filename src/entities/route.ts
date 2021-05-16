@@ -1,6 +1,6 @@
 import invariant from 'tiny-invariant'
 
-import { ChainId, Currency, Price, Token, wrappedCurrency } from '@uniswap/sdk-core'
+import { ChainId, Currency, Price, Token, wrappedCurrency } from '@lamamoon/swap-sdk-core'
 import { Pool } from './pool'
 
 /**

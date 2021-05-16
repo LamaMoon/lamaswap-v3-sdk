@@ -1,4 +1,4 @@
-import { ChainId, ETHER, Percent, Price, sqrt, Token, CurrencyAmount, TradeType, WETH9 } from '@uniswap/sdk-core'
+import { ChainId, ETHER, Percent, Price, sqrt, Token, CurrencyAmount, TradeType, WETH9 } from '@lamamoon/swap-sdk-core'
 import JSBI from 'jsbi'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'
